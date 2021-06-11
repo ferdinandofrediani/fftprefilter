@@ -1,2 +1,2 @@
 # fftprefilter
-A group of function for Node.JS to elaborate data before FFT
+A group of Mathematical function for Node.JS to elaborate data before performing an FFT
